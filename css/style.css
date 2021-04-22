@@ -34,6 +34,7 @@
 }
 
 .menu{
+  display: none;
   position: absolute;
   top: 40px;
   border-radius: 10px;
@@ -51,17 +52,14 @@
 
 .menu.small.primo{
   left: 280px;
-  display: none;
 }
 
 .menu.small.secondo{
   left: 400px;
-  display: none;
 }
 
 .menu.small.terzo{
   left: 540px;
-  display: none;
 }
 
 .menu.small li{
@@ -76,7 +74,6 @@
   right: 25px;
   top: 40px;
   width: 100%;
-  display:none;
 }
 
 .menu.multiple .contenuto{
